@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "123228075157",
+    "firebase_url": "https://shoppesta-8a6a4-default-rtdb.firebaseio.com",
+    "project_id": "shoppesta-8a6a4",
+    "storage_bucket": "shoppesta-8a6a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123228075157:android:9bae54aaaad72aa20f179c",
+        "android_client_info": {
+          "package_name": "com.example.shoppesta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123228075157-b2pk905gpqdffk1r1a8po0f863bve3r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIoYh3OETKUwhMtL52rNptlfbZo1KAcIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123228075157-b2pk905gpqdffk1r1a8po0f863bve3r9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "123228075157-cdhkfqij0putsuenohuc7aop6ma5l5ba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shoppestaStore"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123228075157:android:b5f896aae8a69ba60f179c",
+        "android_client_info": {
+          "package_name": "com.example.shoppesta_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123228075157-b2pk905gpqdffk1r1a8po0f863bve3r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIoYh3OETKUwhMtL52rNptlfbZo1KAcIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123228075157-b2pk905gpqdffk1r1a8po0f863bve3r9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "123228075157-cdhkfqij0putsuenohuc7aop6ma5l5ba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shoppestaStore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
